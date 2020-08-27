@@ -36,4 +36,5 @@ Other: Git, npm, Linux, Docker, Bash, Postman, Shell, Axios
 ## Contact Information:
 
 Email: vasankarul@gmail.com
+
 Phone: 925-819-2438
