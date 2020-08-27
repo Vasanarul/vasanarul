@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Vasanarul/vasanarul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Experienced Software Engineer with a demonstrated history of working with teams to deliver quality applications. Skilled in Full Stack Development, Javascript ES5/ES6, React, Node, and AWS. Looking to help where help is needed!
+### Hi I'm Vasan Arul!
 
-Tools and Technologies:
+I am experienced Software Engineer with a demonstrated history of working with teams to deliver quality applications. I am skilled in Full Stack Development, Javascript ES5/ES6, React, Node, and AWS and am looking to help where help is needed!
+
+## Tools and Technologies:
 
 Front End: JavaScript (ES5 & ES6+), HTML5, CSS, React, jQuery, Webpack, Babel, Styled Components
 
@@ -31,7 +33,7 @@ Test Driven Development: Jest, Enzyme, Mocha, Chai, Jasmine, New Relic, Loader.i
 
 Other: Git, npm, Linux, Docker, Bash, Postman, Shell, Axios
 
-Contact Information:
+## Contact Information:
 
 Email: vasankarul@gmail.com
 Phone: 925-819-2438
