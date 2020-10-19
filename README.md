@@ -38,7 +38,7 @@ Other: Git, npm, Linux, Docker, Bash, Postman, Shell, Axios
 - Financejs, a platform for individuals to track their savings goals!
 
 ## I am currently learning:
-- Python and Django
+- Angular and Go
 
 
 ## Contact Information:
